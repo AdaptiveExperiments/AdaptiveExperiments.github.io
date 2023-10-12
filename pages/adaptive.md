@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Adaptive Experiment"
+title: "Adaptive Experiments"
 #subheadline: "Signup to participate in EASI event"
 teaser: "There are multiple ways to conduct adaptive experiment, this page provides excellent teaching guide on adaptive experiments"
 header:

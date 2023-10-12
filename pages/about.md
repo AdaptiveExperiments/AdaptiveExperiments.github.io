@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-meta_title: "EASI Project"
+meta_title: "EASI Projects"
 permalink: "/about/"
 ---
 
