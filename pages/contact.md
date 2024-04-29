@@ -6,8 +6,13 @@ teaser: "Get in touch with us"
 permalink: "/contact/"
 ---
 
+<<<<<<< HEAD
 ### Participation
 Coming soon....!
+=======
+>>>>>>> origin
 
-### Questions
-Please contact [Jeff Carver](mailto:carver@cs.ua.edu).
+### For questions, please contact:
+* [Jeffery Carver](mailto:carver@cs.ua.edu)
+* [Joseph Jay Williams](mailto:williams@cs.toronto.edu)
+* [John Stamper](mailto:jstamper@cmu.edu).

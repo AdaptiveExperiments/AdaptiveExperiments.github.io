@@ -159,14 +159,6 @@
 
           
           
-            
-            
-              <li class="divider"></li>
-              <li><a  href="http://localhost:4000/ADAPTIVEEXPERIMENTS/contact/">Contact</a></li>
-
-            
-            
-          
         
         
       </ul>
@@ -301,7 +293,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/ADAPTIVEEXPERIMENTS/research/">Experiment</a>
+                <a  href="http://localhost:4000/ADAPTIVEEXPERIMENTS/overview/">Experiment</a>
 
                   <ul class="dropdown">
                     
@@ -331,6 +323,15 @@
               
 
           
+          
+
+            
+            
+              <li><a  href="http://localhost:4000/ADAPTIVEEXPERIMENTS/contact/">Contact</a></li>
+              <li class="divider"></li>
+
+            
+            
           
         
         
